@@ -1,7 +1,7 @@
 # democeshi
 
 ## Project setup
-```
+```aaa
 npm install
 ```
 
